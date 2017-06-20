@@ -100,7 +100,11 @@ GameObject:
   m_Component:
   - component: {fileID: 40693066}
   m_Layer: 0
+<<<<<<< HEAD
   m_Name: MasterAddBlaBla
+=======
+  m_Name: MasterAddBla
+>>>>>>> master
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
