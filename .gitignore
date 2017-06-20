@@ -32,10 +32,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-
-[merge]
-tool = unityyamlmerge
-
-[mergetool "unityyamlmerge"]
-trustExitCode = false
-cmd = 'C:\Program Files\Unity-5-5-2\Editor\Data\Tools\UnityYAMLMerge.exe' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
